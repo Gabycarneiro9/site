@@ -1,1 +1,3 @@
-Esse é o meu projeto para apresentar meus cursos
+#Site dos cursos
+
+Esse é meu proejto para apresentar cursos e instrutores
